@@ -1,16 +1,45 @@
-## Hi there 👋
+# FLEMCR
 
-<!--
-**FLEMCR/FLEMCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning every day. Driven by discipline and consistency.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring software developer focused on building practical projects and continuously improving my skills.
+
+I believe that progress comes from consistent practice, discipline, and curiosity. Every project is an opportunity to learn something new and become a better developer.
+
+## Current Focus
+
+- Web Development
+- Programming Fundamentals
+- Clean and maintainable code
+- Problem solving
+
+## Technologies
+
+Currently learning and working with:
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Goals
+
+- Build useful software
+- Develop real-world projects
+- Continue learning every day
+- Become a professional software developer
+
+## Featured Projects
+
+Projects will be added here as they evolve.
+-
+-
+-
+-
+
+
+---
+> Better than yesterday. Not finished yet.
